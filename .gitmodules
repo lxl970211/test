@@ -1,4 +1,4 @@
 [submodule "lib_common"]
 	path = lib_common
 	url = https://github.com/lxl970211/lib_common.git
-    branch = master
+    branch = lib_common_2
